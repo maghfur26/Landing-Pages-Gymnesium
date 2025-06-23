@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+    --font-poppins: "poppins", sans-serif;
+}
+
+
+#home {
+    background-image: url("src/assets/Images/bg-gym.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-gym {
+    border-radius: 20px;
+    box-shadow: 0px 0px 3px 0px white;
+    background-image: url("src/assets/Images/bg-gym2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
