@@ -1,5 +1,5 @@
-import ManImage from "../../assets/Images/man-image.png";
-import WomanImage from "../../assets/Images/woman-image.png";
+import ManImage from "/images/man-image.png";
+import WomanImage from "/images/woman-image.png";
 import PricingCard from "../elements/PricingCard";
 
 export default function Trainer() {

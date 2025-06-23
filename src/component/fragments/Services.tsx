@@ -3,7 +3,7 @@ import { MdDirectionsRun } from "react-icons/md";
 import { MdOutlineSportsGymnastics } from "react-icons/md";
 import { IoWaterSharp } from "react-icons/io5";
 import { FaPersonCircleCheck } from "react-icons/fa6";
-import womanImage from "../../assets/Images/woman-image.png";
+import womanImage from "/images/woman-image.png";
 
 export default function Services() {
     const icons = [
